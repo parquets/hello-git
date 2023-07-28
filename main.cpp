@@ -5,7 +5,7 @@
 int main() {
     printf("hello git\n");
 
-    add(2, 3);
-    add(4, 5);
+    mul(2, 3);
+    mul(4, 5);
     return 0;
 }
